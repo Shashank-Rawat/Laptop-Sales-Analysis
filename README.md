@@ -23,7 +23,7 @@ This project analyzes sales data for a leading retail chain in London with over 
 - Story Dashboard
 
 ## Check out the Dashboard
-[Project Link](https://public.tableau.com/views/SportsEquipmentSalesReport/Question-1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Project Link](https://public.tableau.com/views/LaptopStoreSalesReport/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Tools
 - MS Excel
