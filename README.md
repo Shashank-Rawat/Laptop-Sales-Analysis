@@ -24,5 +24,8 @@ This project analyzes sales data for a leading retail chain in London with over 
 
 ## Tools
 - MS Excel
-- Tableau Dekstop
+- Tableau Desktop
+
+## Dashboard Link
+[Top Laptop Configurations Dashboard](https://public.tableau.com/views/SportsEquipmentSalesReport/Question-1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
