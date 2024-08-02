@@ -1,7 +1,7 @@
 # Laptop-Sales-Analysis
 
 ## Project Overview
-This project analyzes sales data for a leading retail chain in London with over 15 stores, aiming to maximize projected revenues for 2016 through insights into product performance, pricing strategies, and customer behaviors.
+This project analyzes sales data for a leading retail chain in London with over 15 stores, aiming to maximize projected revenues for 2016 through insights into product performance, pricing strategies, and customer behaviours.
 
 ## Key Analyses
 1. **Top Laptop Configurations**: Identify and analyze the top 20 laptop configurations sold in 2015.
@@ -22,10 +22,12 @@ This project analyzes sales data for a leading retail chain in London with over 
 - Store-View Dashboard
 - Story Dashboard
 
+## Check out the Dashboard
+[Project Link](https://public.tableau.com/views/SportsEquipmentSalesReport/Question-1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Tools
 - MS Excel
 - Tableau Desktop
 
-## Dashboard Link
-[Top Laptop Configurations Dashboard](https://public.tableau.com/views/SportsEquipmentSalesReport/Question-1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
